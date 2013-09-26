@@ -1,0 +1,11 @@
+setup.cfg
+setup.py
+siesta/__init__.py
+siesta/auth.py
+siesta.egg-info/PKG-INFO
+siesta.egg-info/SOURCES.txt
+siesta.egg-info/dependency_links.txt
+siesta.egg-info/requires.txt
+siesta.egg-info/top_level.txt
+siesta/tests/__init__.py
+siesta/tests/test_siesta.py

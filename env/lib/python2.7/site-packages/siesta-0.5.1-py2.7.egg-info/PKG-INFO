@@ -1,0 +1,16 @@
+Metadata-Version: 1.0
+Name: siesta
+Version: 0.5.1
+Summary: Sit back, relax and enjoy your python REST client
+Home-page: http://scastillo.github.com/siesta/
+Author: Sebastián Castillo Builes
+Author-email: castillobuiles@gmail.com
+License: GPL
+Description: 
+            Siesta is a client library to consume RESTful web services.
+            
+Keywords: REST RESTful API HTTP web service
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
